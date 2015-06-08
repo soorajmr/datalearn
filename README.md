@@ -37,7 +37,9 @@
   * 10-701 by Tom Mitchell http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml  
   * Statistical machine learning, CMU 10-702/36-702 (more mathematical/theoretical than 10-701) - https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r  
   * CMU 10-708 Probabilistic Graphical Models Spring 2014  https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621  
-  
+* Big Data, Big Data, Large Scale Machine Learning - NYU course 2013 by John Langford and Yann LeCun: http://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:start
+ 
+
 ### Books, Detailed Notes, etc.
 * Time series & forecasting: https://www.otexts.org/fpp/
 * Stats with R: http://zoonek2.free.fr/UNIX/48_R/all.html
@@ -55,6 +57,7 @@
 * ML: http://mlss.tuebingen.mpg.de/2013/speakers.html
 * deep learning: http://jmozah.github.io/links/
 * Deep learning tutorials at ICML: http://techtalks.tv/talks/deep-learning/58122/  
+* Yoshua Bengio on deep learning (at MLSS Iceland 2014) https://www.youtube.com/watch?v=JuimBuvEWBg
 
 ### Other lists of resources
 * http://datasciencemasters.org/
