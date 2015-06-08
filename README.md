@@ -1,6 +1,6 @@
 # A list of data science and machine learning resources
 
-## MOOCS and other open courses
+### MOOCS and other open courses
 * Prof Ng: http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599  
 * Prof Ng Coursera: https://www.coursera.org/learn/machine-learning
 * Preview of UW course: https://class.coursera.org/datasci-001/lecture  
@@ -35,36 +35,36 @@
 * https://itunes.apple.com/itunes-u/statistics-2-001-fall-2009/id354822870?mt=10#ls=1  
 * https://datasense.withgoogle.com/course  
 
-# Books and other systematic notes
+### Books, detailed notes, etc.
 * Time series & forecasting: https://www.otexts.org/fpp/
 * Stats with R: http://zoonek2.free.fr/UNIX/48_R/all.html
 
-## Practical explanations of concepts
+### Practical explanations of concepts
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
-## Blogs, Podcasts and articles
+### Blogs, Podcasts and articles
 * https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/ar/1
 * https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4
 * http://simplystatistics.org/
 * http://www.thetalkingmachines.com
 
-## Talks
+### Talks
 * ML: http://mlss.tuebingen.mpg.de/2013/speakers.html
 * deep learning: http://jmozah.github.io/links/
 
-## Other lists of resources
+### Other lists of resources
 * http://datasciencemasters.org/
 * https://www.mysliderule.com/learning-paths/data-analysis/learn/
 * http://metacademy.org/
 
-## Problems and Competitions
+### Problems and Competitions
 * http://www.neural-forecasting-competition.com/motivation.htm
 * https://www.coursolve.org/need/54
 
-## Tools
+### Tools
 * iPython notebook gallery: http://nb.bianp.net/sort/views/
 
-## MISC
+### MISC
 * http://www.holehouse.org/mlclass/
 * https://exploredatascience.com/support
 
