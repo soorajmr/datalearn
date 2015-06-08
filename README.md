@@ -1,64 +1,81 @@
 # A list of data science and machine learning resources
 
 ## MOOCS and other open courses
-Preview of UW course: https://class.coursera.org/datasci-001/lecture
-Preview of UMN recsys: https://class.coursera.org/recsys-001/lecture
+Preview of UW course: https://class.coursera.org/datasci-001/lecture  
 
-http://alex.smola.org/teaching/cmu2013-10-701/intro.html
-http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
+Preview of UMN recsys: https://class.coursera.org/recsys-001/lecture  
 
-https://www.edx.org/course/analytics-edge-mitx-15-071x-0#.VJzdNf8PDA
-https://www.edx.org/course/foundations-data-analysis-utaustinx-ut-7-01x#.VJzdtf8PDA
-https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1#.VJzdFv8PDA
-https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2#.VJzdSv8PDA
-https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x#.VJzdHP8PDA
-https://courses.edx.org/courses/MITx/6.00.2_2x/3T2014/courseware/8d9a47872ed641a1ace050f1c1ba7ac7/
+http://alex.smola.org/teaching/cmu2013-10-701/intro.html  
 
-https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599
+http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml  
 
-http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+https://www.edx.org/course/analytics-edge-mitx-15-071x-0#.VJzdNf8PDA  
 
-Wow! https://www.coursera.org/course/modelthinking
-Proabablistic graphical models: https://www.coursera.org/course/pgm
+https://www.edx.org/course/foundations-data-analysis-utaustinx-ut-7-01x#.VJzdtf8PDA  
 
-Gautam Shroff, IITD. Archived: Uses python: https://www.coursera.org/course/bigdata 
+https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1#.VJzdFv8PDA  
 
-Neural nets (from an ex-Toronto post-doc): 
-             http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html
-             https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2#.VJzdSv8PDA  
 
-		http://techtalks.tv/talks/deep-learning/58122/
+https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x#.VJzdHP8PDA  
+
+https://courses.edx.org/courses/MITx/6.00.2_2x/3T2014/courseware/8d9a47872ed641a1ace050f1c1ba7ac7/  
+
+https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599  
+
+http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
+
+Models, Models! https://www.coursera.org/course/modelthinking  
+
+Proabablistic graphical models: https://www.coursera.org/course/pgm  
+
+Gautam Shroff, IITD. Archived: Uses python: https://www.coursera.org/course/bigdata   
+
+Neural nets (from an ex-Toronto post-doc):  
+
+             http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html  
+             
+             https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH  
+
+		http://techtalks.tv/talks/deep-learning/58122/  
 
 
-Prof. Nando de Freitas
+Prof. Nando de Freitas  
 
-Grad machine learning course, UBC 2013 
-https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all
+Grad machine learning course, UBC 2013   
 
-Oxford ML, 2015, covers a lot of neural nets:
-https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all  
 
-Prof Ng: http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599
+Oxford ML, 2015, covers a lot of neural nets:  
+
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/  
+
+Prof Ng: http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599  
 
 
 ---------------------------------------------------
-CMU Machine learning
+CMU Machine learning  
 
-10-601 machine learning spring 2015
-https://www.youtube.com/watch?v=m4NlfvrRCdg&list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ
+10-601 machine learning spring 2015  
 
-Statistical machine learning, CMU 10-702/36-702
-https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r
+https://www.youtube.com/watch?v=m4NlfvrRCdg&list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ  
 
-CMU 10-708 Probabilistic Graphical Models Spring 2014
-https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621
+Statistical machine learning, CMU 10-702/36-702  
+
+https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r  
+
+CMU 10-708 Probabilistic Graphical Models Spring 2014  
+
+https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621  
 
 
-http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
+http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning  
 
-http://www.3nightsdone.org/course/15/info/
-https://itunes.apple.com/itunes-u/statistics-2-001-fall-2009/id354822870?mt=10#ls=1
-https://datasense.withgoogle.com/course
+http://www.3nightsdone.org/course/15/info/  
+
+https://itunes.apple.com/itunes-u/statistics-2-001-fall-2009/id354822870?mt=10#ls=1  
+
+https://datasense.withgoogle.com/course  
 
 # Books and other systematic notes
 Time series & forecasting: https://www.otexts.org/fpp/
