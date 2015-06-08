@@ -19,16 +19,16 @@
 * Proabablistic graphical models: https://www.coursera.org/course/pgm  
 * Gautam Shroff, IITD. Archived: Uses python: https://www.coursera.org/course/bigdata   
 * Neural nets (from an ex-Toronto post-doc):  
-..* http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html  
-..* https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH  
-..* http://techtalks.tv/talks/deep-learning/58122/  
+  * http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html  
+  * https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH  
+  * http://techtalks.tv/talks/deep-learning/58122/  
 * Prof. Nando de Freitas  
-..* Grad machine learning course, UBC 2013 https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all  
-..* Oxford ML, 2015, covers a lot of neural nets: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/  
+  * Grad machine learning course, UBC 2013 https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all  
+  * Oxford ML, 2015, covers a lot of neural nets: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/  
 * CMU Machine learning  
-..* 10-601 machine learning spring 2015 https://www.youtube.com/watch?v=m4NlfvrRCdg&list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ  
-..* Statistical machine learning, CMU 10-702/36-702  https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r  
-..* CMU 10-708 Probabilistic Graphical Models Spring 2014  https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621  
+  * 10-601 machine learning spring 2015 https://www.youtube.com/watch?v=m4NlfvrRCdg&list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ  
+  * Statistical machine learning, CMU 10-702/36-702  https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r  
+  * CMU 10-708 Probabilistic Graphical Models Spring 2014  https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621  
 
 * http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning  
 * http://www.3nightsdone.org/course/15/info/  
