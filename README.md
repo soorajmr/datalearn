@@ -3,6 +3,7 @@
 ### MOOCS and other open courses with video lectures
   
 #### Math/Stats Background
+* Harvard STAT 110, by Prof Joe Blitzstein http://projects.iq.harvard.edu/stat110/youtube
 * https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1#.VJzdFv8PDA  
 * https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2#.VJzdSv8PDA  
 * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
@@ -10,6 +11,7 @@
 * https://itunes.apple.com/itunes-u/statistics-2-001-fall-2009/id354822870?mt=10#ls=1  
   
 #### General DS or ML courses
+* Harvard CS109 Data Science: http://cs109.github.io/2014/
 * Prof Andrew Ng Coursera: https://www.coursera.org/learn/machine-learning
 * Prof Ng Stanford lectures: http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599  
 * Another version, Prof Ng: http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
