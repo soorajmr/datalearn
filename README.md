@@ -12,6 +12,7 @@
   
 #### General DS or ML courses
 * Harvard CS109 Data Science: http://cs109.github.io/2014/
+* Stanford statistical learning by Prof Hastie and Prof Tibshirani. Mostly covers basics of supervised learning: https://statlearning.class.stanford.edu
 * Prof Andrew Ng Coursera: https://www.coursera.org/learn/machine-learning
 * Prof Ng Stanford lectures: http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599  
 * Another version, Prof Ng: http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
