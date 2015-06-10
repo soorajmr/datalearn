@@ -1,36 +1,29 @@
 # A list of data science and machine learning resources
 
-### MOOCS and other open courses with video lectures
+### MOOCS and openly accessible videos of university courses
   
 #### Math/Stats Background
-* Harvard STAT 110, by Prof Joe Blitzstein http://projects.iq.harvard.edu/stat110/youtube
+* Harvard STAT 110, by Prof Joe Blitzstein http://projects.iq.harvard.edu/stat110/youtube, also the iTunesU version: https://itunes.apple.com/us/course/statistics-110-probability/id502492375
 * https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1#.VJzdFv8PDA  
 * https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2#.VJzdSv8PDA  
 * http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
 * Basic stats: http://www.3nightsdone.org/course/15/info/  
 * https://itunes.apple.com/itunes-u/statistics-2-001-fall-2009/id354822870?mt=10#ls=1  
   
-#### General DS or ML courses
+#### General Data Science, Analytics and Machine Learning courses
+  
 * Harvard CS109 Data Science: http://cs109.github.io/2014/
 * Stanford statistical learning by Prof Hastie and Prof Tibshirani. Mostly covers basics of supervised learning: https://statlearning.class.stanford.edu
 * Prof Andrew Ng Coursera: https://www.coursera.org/learn/machine-learning
 * Prof Ng Stanford lectures: http://www.youtube.com/view_play_list?p=A89DCFA6ADACE599  
 * Another version, Prof Ng: http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
 * Learning from data, Prof. Yaser Abu-Mostafa, Caltech: https://work.caltech.edu/telecourse.html
+* My personal favourite - Prof. Ryan Adams, Harvard CS-181 Machine Learning: http://isites.harvard.edu/icb/icb.do?keyword=k100677
 * MIT Analytics Edge: https://www.edx.org/course/analytics-edge-mitx-15-071x-0  
 * MIT Intro to Computational Thinking and Data Science: https://courses.edx.org/courses/MITx/6.00.2_2x/3T2014  
 * ML using Spark: https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x  
-* Models, Models! (With a of social sciences perspective) https://www.coursera.org/course/modelthinking  
 * Gautam Shroff, IITD. Archived: Uses python: https://www.coursera.org/course/bigdata   
 * Preview of an old UW course: https://class.coursera.org/datasci-001/lecture  
-  
-#### More Specific and/or Advanced Courses
-* UMN recommendation systems, all time on course: https://www.coursera.org/course/recsys  
-* Proabablistic graphical models, archived course: https://www.coursera.org/course/pgm  
-* Neural nets from none other than Prof Geoffrey Hinton, archived course: https://www.coursera.org/course/neuralnets
-* Neural nets (from an ex-post-doc from Toronto):  
-  * http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html  
-  * https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH  
 * Prof. Nando de Freitas
   * Grad machine learning course, UBC 2013 https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all  
   * Oxford ML, 2015, covers a lot of neural nets: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/  
@@ -39,15 +32,23 @@
   * 10-701, PhD level intro course, By Alex Smola: http://alex.smola.org/teaching/cmu2013-10-701/intro.html  
   * 10-701 by Tom Mitchell http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml  
   * Statistical machine learning, CMU 10-702/36-702 (more mathematical/theoretical than 10-701) - https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r  
-  * CMU 10-708 Probabilistic Graphical Models Spring 2014  https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621  
-* Big Data, Big Data, Large Scale Machine Learning - NYU course 2013 by John Langford and Yann LeCun: http://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:start
- 
+* Big Data, Large Scale Machine Learning - NYU course 2013 by John Langford and Yann LeCun: http://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:start
+
+### Courses on More Specific Topics 
+  
+* UMN recommendation systems, all time on course: https://www.coursera.org/course/recsys  
+* Proabablistic graphical models, archived course: https://www.coursera.org/course/pgm  
+* Models, Models! (With a of social sciences perspective) https://www.coursera.org/course/modelthinking  
+* CMU 10-708 Probabilistic Graphical Models Spring 2014  https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/33ec284c7d3b42bdaa51dd42deacb1e621  
+* Neural nets from none other than Prof Geoffrey Hinton, archived course: https://www.coursera.org/course/neuralnets
+* Neural nets (from an ex-post-doc from Toronto):  
+  * http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html  
+  * https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH  
+
 
 ### Books, Detailed Notes, etc.
 * Time series & forecasting: https://www.otexts.org/fpp/
 * Stats with R: http://zoonek2.free.fr/UNIX/48_R/all.html
-
-### Practical explanations of concepts
 * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 ### Blogs, Podcasts and articles
